@@ -5,7 +5,7 @@ public class Emprunt {
 
 
 	private int ID;
-private int idd;
+private int iddxx;
 	private int ExemplaireID;
 	private int UsagerID;
 	private String DateEmprunt;
