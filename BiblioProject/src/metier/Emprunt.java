@@ -3,7 +3,7 @@ package metier;
 public class Emprunt {
 	
 	private int ID;
-private String dd;
+private int yassine;
 	private int ExemplaireID;
 	private int UsagerID;
 	private String DateEmprunt;
